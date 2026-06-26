@@ -38,6 +38,7 @@ const todos = [
   2. Use an anonymous function as the callback.
   3. Return only the tasks that are not completed.
   */
+
   
    const incompleteTask = todos.filter((todo) => todo.completed === false);
   
