@@ -38,6 +38,7 @@ const todos = [
   2. Use an anonymous function as the callback.
   3. Return only the tasks that are not completed.
   */
+
   
   /*
   🔹 Task 2: Sort Tasks by Priority
